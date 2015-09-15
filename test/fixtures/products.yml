@@ -11,3 +11,11 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+  
+hello:
+  title: Test title
+  description:
+    It's kind of nice that I don't need any particular quotes to do this.It
+  price: 49.22
+  image_url: test.png
+  
