@@ -13,7 +13,7 @@ two:
   price: 9.99
   
 hello:
-  title: Test title
+  title: Programming Ruby 1.9
   description:
     It's kind of nice that I don't need any particular quotes to do this.It
   price: 49.22
