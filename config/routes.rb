@@ -1,4 +1,10 @@
 Rails.application.routes.draw do
+  get 'static_pages/questions'
+
+  get 'static_pages/news'
+
+  get 'static_pages/contact'
+
   resources :line_items
 
   resources :carts
